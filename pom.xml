@@ -46,7 +46,7 @@
 		<dependency>
 			<groupId>org.mapstruct</groupId>
 			<artifactId>mapstruct-jdk8</artifactId>
-<<<<<<< HEAD
+
 		</dependency>
 		<dependency>
 			<groupId>com.spring4all</groupId>
@@ -56,13 +56,12 @@
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger2</artifactId>
-			<version>2.9.2</version>
+
 		</dependency>
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger-ui</artifactId>
-=======
->>>>>>> 3e9671bca416637a528adfa3ea13b75234c574a6
+
 
 		</dependency>
 		<dependency>
